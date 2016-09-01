@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "marked": "https://github.com/ExentriqLtd/marked/archive/97d51566c00c96587e3efdf91fea33a4450a1ae4.zip",
+    "marked": "https://github.com/ExentriqLtd/marked/tarball/97d51566c00c96587e3efdf91fea33a4450a1ae4",
     "debug": "~0.7.4"
   },
   "devDependencies": {
