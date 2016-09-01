@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "marked": "~0.3.1",
+    "marked": "https://github.com/ExentriqLtd/marked/archive/97d51566c00c96587e3efdf91fea33a4450a1ae4.zip",
     "debug": "~0.7.4"
   },
   "devDependencies": {
